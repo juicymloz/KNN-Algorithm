@@ -1,0 +1,6 @@
+--------------NOTAS--------------
+
+	* Los archivos datasets deben estar en su carpeta correspondiente "datasets" para
+	  unicamente modificar el nombre de los archivos en caso necesario, sin embargo, si se
+	  encuentran en una ubicacion distinta, escribir la ruta cumpleta en las variables
+	  correspondientes del programa.
